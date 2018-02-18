@@ -1,0 +1,19 @@
+# Scala
+target
+*.class
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
+# macOS
+.DS_Store
+
+# other
+resources
+project/target
+
+
